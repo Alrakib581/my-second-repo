@@ -8,3 +8,8 @@ h3{
 h2{
     background-color: aliceblue;
 }
+img{
+    display: block;
+    text-align: center;
+    width: 300px;
+}
